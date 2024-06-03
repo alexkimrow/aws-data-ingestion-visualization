@@ -25,13 +25,13 @@ The purpose of this project is to ingest, transform and visualize the weather da
 - [Grafana]: Provided real-time dashboards and visualizations by connecting to Athena for monitoring weather data.
 
 ## Schema
-    - `time`: Current Time of Houston
-    - `latitude`: Latitude of Houston, TX
-    - `longitude`: Longitude of Houston, TX
-    - `temp`: Temperature of that time
-    - `humidity`: Humidity of that time
-    - `rain`: The sum of rain that time
-    - `row_ts`: Timestamp of the data row
+- `time`: Current Time of Houston
+- `latitude`: Latitude of Houston, TX
+- `longitude`: Longitude of Houston, TX
+- `temp`: Temperature of that time
+- `humidity`: Humidity of that time
+- `rain`: The sum of rain that time
+- `row_ts`: Timestamp of the data row
 
 ## Dashboard
 
