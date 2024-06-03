@@ -3,7 +3,7 @@ import boto3
 import urllib3
 import datetime
 
-# REPLACE WITH YOUR DATA FIREHOSE NAME
+# REPLACE WITH YOUR DATA FIREHOSE NAME #
 FIREHOSE_NAME = "PUT-S3-axEqG"
 
 
