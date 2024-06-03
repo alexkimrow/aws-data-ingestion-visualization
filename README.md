@@ -45,10 +45,10 @@ Glue Jobs are performed with python scripts using work orchestration for seamles
 - `rain`: The sum of rain that time
 - `row_ts`: Timestamp of the data row
 
-![image] (https://github.com/alexkimrow/aws-data-ingestion-visualization/blob/main/images/athena%20query.png)
+![Athena Query](https://github.com/alexkimrow/aws-data-ingestion-visualization/blob/main/images/athena%20query.png)
 
 ## Dashboard
-![image] (https://github.com/alexkimrow/aws-data-ingestion-visualization/blob/main/images/visualization%20grafana.png)
+![Grafana Dashboard](https://github.com/alexkimrow/aws-data-ingestion-visualization/blob/main/images/visualization%20grafana.png)
 
 
 ## Acknowledgements
