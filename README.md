@@ -37,6 +37,7 @@ The purpose of this project is to ingest, transform and visualize the weather da
 
 ## Dashboard
 
+
 ## Acknowledgements
 
     - [Build Your First Serverless Data Engineering Project Course](https://maven.com/david-freitag/first-serverless-de-project)
