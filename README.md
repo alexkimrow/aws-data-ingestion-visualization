@@ -36,6 +36,7 @@ The purpose of this project is to ingest, transform and visualize the weather da
 - `row_ts`: Timestamp of the data row
 
 ## Dashboard
+![image] ()
 
 
 ## Acknowledgements
