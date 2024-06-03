@@ -21,7 +21,7 @@ Lambda function is paired up with Eventbridge which automates function calls.
 Using Kinesis Firehose, the data is delivered to s3 bucket. Glue Crawler identifies the table schemas and creates a table to view in Athena self sustainably.
 Glue Jobs are performed with python scripts using work orchestration for seamless interaction.
 
-![image] (https://github.com/alexkimrow/aws-data-ingestion-visualization/blob/main/images/data%20orechestration.png)
+![Data Orchestration](https://github.com/alexkimrow/aws-data-ingestion-visualization/blob/main/images/data%20orechestration.png)
 
 ## Architecture
 ![architecture_diagram](https://github.com/alexkimrow/aws-data-ingestion-visualization/blob/main/images/Project%20Architecutre%20Diagram.png)
