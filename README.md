@@ -6,13 +6,13 @@
 
 
 ## Table of Contents
-- [Overview](#overview-)
-- [Architecture](#architecture-)
-- [Tech Stack](#techstack-)
-- [Schema](#schema-)
-- [Dashboard](#dashboard-)
-- [Author](#author-)
-- [Acknowledgements](#acknowledgements-)
+- [Overview](#overview)
+- [Architecture](#architecture)
+- [Tech Stack](#tech-stack)
+- [Schema](#schema)
+- [Dashboard](#dashboard)
+- [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 
 ## Overview
